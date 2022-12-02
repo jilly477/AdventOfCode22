@@ -58,4 +58,3 @@ int main(){
     cout << "The top three Elves carrying the most Calories are carrying " << first + second + third << " calories in total." <<endl;
     return 0;
 }
-
