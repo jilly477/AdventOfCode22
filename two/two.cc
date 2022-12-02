@@ -34,8 +34,7 @@ using namespace std;
 //         return 1;
 //     }
 
-//     string opp;
-//     string you;
+//     string opp, you;
 //     int points = 0;
 //     while(input >> opp){
 //         input >> you;
@@ -80,8 +79,7 @@ int main(){
         return 1;
     }
 
-    string opp;
-    string type;
+    string opp, type;
     int points = 0;
     while(input >> opp){
         input >> type;
