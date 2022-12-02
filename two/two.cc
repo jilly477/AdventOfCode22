@@ -52,7 +52,6 @@ std::map<string, int> gamePoints = {
     {"Z", 6}
 };
 
-
 map<string, map<string, int>> typePoints = {
     {"A",
         {{"X",3},
@@ -70,7 +69,6 @@ map<string, map<string, int>> typePoints = {
         {"Z",1}}
     }
 };
-
 
 int main(){
     ifstream input("input.txt");
